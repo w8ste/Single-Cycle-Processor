@@ -16,7 +16,10 @@ The [mux module](https://github.com/w8ste/Single-Cycle-Processor/blob/main/block
 | 0                |    d0              |
 | 1                |    d1              |
 
-<img src="https://github.com/w8ste/Single-Cycle-Processor/blob/main/.images/mux.png" width="500" height="400" />
+<img src="https://github.com/w8ste/Single-Cycle-Processor/blob/main/.images/mux.png" width="500" height="600" />
+
+### Register File
+The [register file module](https://github.com/Single-Cycle-Processor/main/blocks/multiplexer.sv) is used by digitial system to store temporary variables. In arm 32-bit, we have 15 32-bit register.
 
 ## Appendix
 - This project is based on the book `Digital Design
