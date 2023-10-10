@@ -15,6 +15,9 @@ The [mux module](https://github.com/w8ste/Single-Cycle-Processor/blob/main/block
 |------------------|--------------------|
 | 0                |    d0              |
 | 1                |    d1              |
+
+<img src="https://github.com/w8ste/Single-Cycle-Processor/blob/main/.images/mux.png" width="500" height="400" />
+
 ## Appendix
 - This project is based on the book `Digital Design
 and Computer Architecture` by Harris & Harris and their implementation of a Single-Cycle-Processor.
