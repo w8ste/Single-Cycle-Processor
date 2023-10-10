@@ -6,6 +6,7 @@ The block folder contains the associated files.
 #### adder
 The adder module is fairly straight forward. The adder takes two parameters,
 adds them together and outputs the result.
+
 <img src="https://github.com/w8ste/Single-Cycle-Processor/blob/main/.images/adder.png" width="500" height="400" />
 
 ### Appendix
