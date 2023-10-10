@@ -31,12 +31,14 @@ You can find the synthesiis of the code [here](https://github.com/w8ste/Single-C
 <img src="https://github.com/w8ste/Single-Cycle-Processor/blob/main/.images/reset_enable_ff.png" width="500" height="600" />
 
 ### Extender
-The [extender module](https://github.com/w8ste/Single-Cycle-Processor/blob/main/blocks/extender.sv) is used to extend different bit-width. Here is how this functions:
+The [extender module](https://github.com/w8ste/Single-Cycle-Processor/blob/main/blocks/extender.sv) is used to extend different bit-widths. Here is how this functions:
 | Imm Src         | Ext Imm           |
 |-----------------|-------------------|
 | 00              |  Imm {24x0} instr_7:0  |
 | 01              | {20x0} instr_11:0  |
 | 10              | {6xinstr_23} instr_23:0  |
+
+<img src="https://github.com/w8ste/Single-Cycle-Processor/blob/main/.images/extender.png" width="500" height="600" />
 
 ## Appendix
 - This project is based on the book `Digital Design
