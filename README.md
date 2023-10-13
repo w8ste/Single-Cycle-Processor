@@ -40,6 +40,8 @@ The [extender module](https://github.com/w8ste/Single-Cycle-Processor/blob/main/
 
 <img src="https://github.com/w8ste/Single-Cycle-Processor/blob/main/.images/extender.png" width="500" height="600" />
 
+You can find the pdf [here.](https://github.com/w8ste/Single-Cycle-Processor/blob/main/.images/extender.pdf)
+
 ## Appendix
 - This project is based on the book `Digital Design
 and Computer Architecture` by Harris & Harris and their implementation of a Single-Cycle-Processor.
