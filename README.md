@@ -1,5 +1,16 @@
 # Single-Cycle Processor
 
+## Main Modules
+
+### Datapath
+Used to connect different modules and creates path the instruction takes through the processor.
+
+### Decoder
+Part of the Control Unit. It is used to set different flags depending on the instruction, that is suppposed to be executed.
+
+<img src="https://github.com/w8ste/Single-Cycle-Processor/blob/main/.images/decoder.png" width="600" height="500" />
+
+You can find the pdf [here](https://github.com/w8ste/Single-Cycle-Processor/blob/main/.images/decoder.png).
 ## Building blocks
 The block folder contains the associated files. 
 
