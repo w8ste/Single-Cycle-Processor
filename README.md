@@ -4,7 +4,7 @@
 
 ### Datapath
 Used to connect different modules and creates path the instruction takes through the processor.
-
+You can find the pdf [here](https://github.com/w8ste/Single-Cycle-Processor/blob/main/.images/datapath.pdf).
 ### Decoder
 Part of the Control Unit. It is used to set different flags depending on the instruction, that is suppposed to be executed.
 
