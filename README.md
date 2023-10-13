@@ -42,6 +42,9 @@ The [extender module](https://github.com/w8ste/Single-Cycle-Processor/blob/main/
 
 You can find the pdf [here.](https://github.com/w8ste/Single-Cycle-Processor/blob/main/.images/extender.pdf)
 
+### ALU
+The ALU is used to execute various arithmetic calculations. You can find the synthesis [here.](https://github.com/w8ste/Single-Cycle-Processor/blob/main/.images/alu.pdf)
+
 ## Appendix
 - This project is based on the book `Digital Design
 and Computer Architecture` by Harris & Harris and their implementation of a Single-Cycle-Processor.
