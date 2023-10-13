@@ -1,9 +1,9 @@
-module datapath(input logic	    clk, reset, RegWrite,
-		input logic	    MemToReg, PCSrc, ALUSrc,
-		input logic [1:0]   RegSrc, ImmSrc, ALUControl,
-		input logic [31:0] Instr, ReadData,
-		output logic [3:0]  Flags, 
-		output logic [31:0] PC, ALUResult, WriteData);
+    module datapath(input logic	    clk, reset, RegWrite,
+		    input logic	    MemToReg, PCSrc, ALUSrc,
+		    input logic [1:0]   RegSrc, ImmSrc, ALUControl,
+		    input logic [31:0] Instr, ReadData,
+		    output logic [3:0]  Flags,
+		    output logic [31:0] PC, ALUResult, WriteData);
 
    logic [31:0] ExtImm, SrcA, SrcB, Result, PCNext, PC4, PC8;
    logic [3:0]	ra1, ra2;
