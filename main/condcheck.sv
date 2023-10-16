@@ -1,5 +1,5 @@
 module condcheck (input logic [3:0] Cond, Flags,
-		  ouput logic CondEx);
+		  output logic CondEx);
 
    logic neg, zero, carry, overflow, ge;
   

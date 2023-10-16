@@ -1,7 +1,7 @@
 module condlogic (input logic	    clk, rst,
 		  input logic	    PCS, RegW, MemW,
 		  input logic [1:0] FlagW,
-		  input logic [3:0] Cond, ALUFlags
+		  input logic [3:0] Cond, ALUFlags,
 		  output logic	    PCSrc, RegWrite, MemWrite);
    logic CondEx;
    logic [1:0] FlagWrite;
