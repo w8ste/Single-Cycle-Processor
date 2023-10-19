@@ -56,6 +56,11 @@ You can find the pdf [here.](https://github.com/w8ste/Single-Cycle-Processor/blo
 ### ALU
 The ALU is used to execute various arithmetic calculations. You can find the synthesis [here.](https://github.com/w8ste/Single-Cycle-Processor/blob/main/.images/alu.pdf)
 
+### TODO
+- Update README and add all synthesized modules
+- Write Testbench
+- Depending on Testbench results, fix bugs
+
 ## Appendix
 - This project is based on the book `Digital Design
 and Computer Architecture` by Harris & Harris and their implementation of a Single-Cycle-Processor.
